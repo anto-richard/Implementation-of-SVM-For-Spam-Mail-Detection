@@ -27,7 +27,7 @@ Print all the outputs.
 End the Program.
 
 ## PROGRAM:
-```
+```python
 /*
 Program to implement the SVM For Spam Mail Detection....
 Developed by: Anto Richard.S
